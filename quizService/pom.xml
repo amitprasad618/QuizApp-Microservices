@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.amit</groupId>
-	<artifactId>questionService</artifactId>
+	<artifactId>quizService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>questionService</name>
-	<description>questionService project for Spring Boot</description>
+	<name>quizService</name>
+	<description>quizService project for Spring Boot</description>
 	<url/>
 	<licenses>
 		<license/>
